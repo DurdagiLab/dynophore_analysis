@@ -19,8 +19,8 @@ Note: Prior to running this analysis, the MD trajectory must be structurally ali
 - `Lead Hypotheses Extraction`: Retrieval of the top three most frequently observed hypotheses (length ≥ 4) with export of their `.phypo` representations to the `BEST_HYPOTHESES` directory.
 
 # System Requirements
-Python Version: 3.7 or higher
-
+Python Version:
+3.7 or higher
 
 # Required Python Packages
 All dependencies are listed in the requirements.txt file:
@@ -38,12 +38,12 @@ We strongly recommend using a virtual environment (e.g., venv or conda) for pack
 ***Note: On some systems, weasyprint may require additional system-level libraries such as cairo, pango, or gdk-pixbuf. For installation help, consult the WeasyPrint installation guide.
 
 # Input Requirements
-- trajrmsd.dat: RMSD profile of the aligned MD trajectory (generated via VMD
-- <working_directory>/DYNOPHORE_ANALYSIS/PROCESSED_FILES/: Directory containing pharmacophore feature tables (CSV format) named as <frame>_hypo_features_table.csv
-- <working_directory>/DYNOPHORE_ANALYSIS/saved_HYPOTHESIS/: Directory containing .phypo pharmacophore files for corresponding frames
+- `trajrmsd.dat`: RMSD profile of the aligned MD trajectory (generated via VMD
+- `<working_directory>/DYNOPHORE_ANALYSIS/PROCESSED_FILES/`: Directory containing pharmacophore feature tables (CSV format) named as <frame>_hypo_features_table.csv
+- `<working_directory>/DYNOPHORE_ANALYSIS/saved_HYPOTHESIS/`: Directory containing .phypo pharmacophore files for corresponding frames
 
 # Output
-- DYNOPHORE_RESULTS/ folder containing:
+- `DYNOPHORE_RESULTS/` folder containing:
   - PDF and HTML reports
   - All generated figures
   - BEST_HYPOTHESES/ folder with .phypo files of the top 3 most frequent hypotheses (length ≥ 4)
