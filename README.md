@@ -5,7 +5,7 @@ This Python-based tool offers an automated and comprehensive pipeline for the an
 
 It is fully compatible with pharmacophore feature tables generated via Phase and integrates RMSD-based structural correlation through `trajrmsd.dat` files obtained from VMD-aligned trajectories.
 
-Note: Prior to running this analysis, the MD trajectory must be structurally aligned to the average structure using protein  `backbone` or  `Cα-atoms ` in VMD. The corresponding RMSD profile (`trajrmsd.dat `) must be generated and placed in the working directory.
+Note: Prior to running this analysis, the MD trajectory must be structurally aligned to the average structure using protein  `backbone` or  `Cα-atoms` in VMD. The corresponding RMSD profile (`trajrmsd.dat `) must be generated and placed in the working directory.
 
 # Key Functionalities
 - `Pharmacophore Feature Parsing` - Automated extraction and standardization of features from frame-specific tables;
