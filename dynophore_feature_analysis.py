@@ -1,13 +1,13 @@
 """
-###################################################################################################################################
-Dynamic e-Pharmacophore Analysis Tool
+###############################################################################################################################
+Title: Dynamic e-Pharmacophore Analysis Tool
 
 Author: Dr. Mine Isaoglu  
 Principal Investigator: Prof. Dr. Serdar Durdagi
 Affiliation: Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University, Istanbul, Turkey  
              
 Version: May 2025
-###################################################################################################################################
+###############################################################################################################################
 """
 
 import os
