@@ -3,7 +3,7 @@
 # Description
 This Python-based tool offers an automated and comprehensive pipeline for the analysis of dynamic pharmacophore hypotheses derived from molecular dynamics (MD) simulations performed using Desmond (Schrödinger Suite). Specifically developed for structure-based drug design (SBDD) workflows, the tool enables the temporal and structural assessment of pharmacophoric feature evolution throughout an MD trajectory.
 
-It is fully compatible with pharmacophore feature tables generated via Phase and integrates RMSD-based structural correlation through trajrmsd.dat files obtained from VMD-aligned trajectories.
+It is fully compatible with pharmacophore feature tables generated via Phase and integrates RMSD-based structural correlation through `trajrmsd.dat` files obtained from VMD-aligned trajectories.
 
 Note: Prior to running this analysis, the MD trajectory must be structurally aligned to the average structure using protein  `backbone` or  `Cα-atoms ` in VMD. The corresponding RMSD profile (`trajrmsd.dat `) must be generated and placed in the working directory.
 
