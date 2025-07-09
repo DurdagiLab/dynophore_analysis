@@ -49,6 +49,6 @@ We strongly recommend using a virtual environment (e.g., venv or conda) for pack
   - BEST_HYPOTHESES/ folder with .phypo files of the top 3 most frequent hypotheses (length ≥ 4)
 
 # Citation
-If you utilize this tool in your research or publication, please cite the following institution:
+If you use this tool in your research or publication, please cite it as follows:
 
 Isaoğlu, M., & Durdağı, S. (2025). Dynamic e-Pharmacophore Analysis Tool (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/dynophore_analysis
