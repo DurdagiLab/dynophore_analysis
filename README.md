@@ -51,4 +51,4 @@ We strongly recommend using a virtual environment (e.g., venv or conda) for pack
 # Citation
 If you use this tool in your research or publication, please cite it as follows:
 
-Isaoğlu, M., & Durdağı, S. (2025). Dynamic e-Pharmacophore Analysis Tool (Version 1.0) [Computer software]. Computational Drug Design Center (HITMER), Faculty of Pharmacy, Bahçeşehir University. https://github.com/DurdagiLab/dynophore_analysis
+Isaoğlu, M., & Durdağı, S. (2025). Dynamic e-Pharmacophore Analysis Tool (Version 1.0) [Computer software]. https://github.com/DurdagiLab/dynophore_analysis
